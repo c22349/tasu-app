@@ -1,2 +1,2 @@
-# tasu-app
-アプリ用プライバシーポリシー
+# アプリ用プライバシーポリシー
+App Store、Google Play Console
